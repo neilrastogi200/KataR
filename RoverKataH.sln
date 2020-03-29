@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverKataH", "RoverKataH\RoverKataH.csproj", "{B056C7B4-4909-44A8-85F1-57F59214D4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverKataHTests", "RoverKataHTests\RoverKataHTests.csproj", "{B91C3BA1-61CD-4E28-A8B0-4107574BFDE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B056C7B4-4909-44A8-85F1-57F59214D4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B056C7B4-4909-44A8-85F1-57F59214D4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B056C7B4-4909-44A8-85F1-57F59214D4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B056C7B4-4909-44A8-85F1-57F59214D4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B91C3BA1-61CD-4E28-A8B0-4107574BFDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91C3BA1-61CD-4E28-A8B0-4107574BFDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91C3BA1-61CD-4E28-A8B0-4107574BFDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91C3BA1-61CD-4E28-A8B0-4107574BFDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
